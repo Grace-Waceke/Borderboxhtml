@@ -8,11 +8,11 @@
         padding-top:20px;
         margin:25%;
         margin-left: 20%;
-        outline: solid 50px orange;
+        outline: dotted 50px orange;
 
     }
     .box2{
-       outline: solid 50px indigo; 
+       outline: d50px indigo; 
        border: 3px solid orange;
        width: 30%;
        margin: 30% 90% 10% 20%; 
@@ -25,5 +25,5 @@
        border: 3px solid violet;
        width: 50%;
        margin: 25% 25% 35% 25%;  
-       outline: solid 50px green;
+       outline: dashed 50px green;
     }
